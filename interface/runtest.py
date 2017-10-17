@@ -15,7 +15,7 @@ if __name__ == "__main__":
 
     # 定义报告存放路径
     #filename = './' + now + 'test_result.html'
-    filename = 'index.html'
+    filename =  './report/'+'index.html'
 
     fp = open(filename, "wb")
     # 定义测试报告
